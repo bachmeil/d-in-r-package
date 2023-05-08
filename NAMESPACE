@@ -1,0 +1,2 @@
+useDynLib(code, .registration = TRUE)
+export("doubleAll")

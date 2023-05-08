@@ -1,0 +1,4 @@
+Package: code
+Version: 0.0.0
+Date: 2023-05-08
+Title: Demonstration of D code in an R package
